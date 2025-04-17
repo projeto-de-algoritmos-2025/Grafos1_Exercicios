@@ -16,13 +16,15 @@
 ### Questões Médias
 | Título | Responsável | 
 | -- | -- | 
-|  |  | 
+| Number of Islands | Fábio gabriel | 
+|  |   |
 
 
 ### Questões Difíceis
 | Título | Responsável | 
 | -- | -- | 
-| |  | 
+| Build a Matrix With Conditions | Fábio Gabriel | 
+|  |  |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
