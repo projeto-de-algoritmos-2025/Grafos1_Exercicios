@@ -31,7 +31,14 @@
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [Number of Islands](https://leetcode.com/problems/number-of-islands/?envType=problem-list-v2&envId=breadth-first-search)
+
+![](img/Number%20of%20Islands%20-%20LeetCode.png)
+
+### [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=problem-list-v2&envId=topological-sort)
+
+![](img/Build%20a%20Matrix%20With%20Conditions%20-%20LeetCode.png)
 
 ## Link do vídeo
 [Is Graph Bipartite?](https://youtu.be/5ZMLbCMSaWw )
