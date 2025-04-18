@@ -53,5 +53,3 @@ https://www.youtube.com/watch?v=UpvuFKI2WCw
 **Linguagem**: C, Python <br>
 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
