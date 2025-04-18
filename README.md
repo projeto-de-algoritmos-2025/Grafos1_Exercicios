@@ -33,18 +33,19 @@
 ## Screenshots
 
 ### [Number of Islands](https://leetcode.com/problems/number-of-islands/?envType=problem-list-v2&envId=breadth-first-search)
-
-![](img/Number%20of%20Islands%20-%20LeetCode.png)
+![Number of Islands](img/Number%20of%20Islands%20-%20LeetCode.png)
 
 ### [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=problem-list-v2&envId=topological-sort)
+![Build a Matrix With Conditions](img/Build%20a%20Matrix%20With%20Conditions%20-%20LeetCode.png)
 
-![](img/Build%20a%20Matrix%20With%20Conditions%20-%20LeetCode.png)
+### [Is graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+![Is graph Bipartite?](img/Bipartite.PNG)
+
+### [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/?envType=problem-list-v2&envId=depth-first-search)
+![Binary Tree Maximum Path Sum](img/Maximum%20Path%20Sum.PNG)
+
 
 ## Link do vídeo
-[Is Graph Bipartite?](https://youtu.be/5ZMLbCMSaWw )
-
-[Binary Tree Maximum Path Sum](https://www.youtube.com/watch?v=HVteeOMPOMU )
-
 
 ## Instalação 
 **Linguagem**: C, Python <br>
